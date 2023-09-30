@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Titanic", "isFree": true},
+    {"id": 2, "name": "Avenger", "isFree": false},
+    {"id": 3, "name": "Iron Man", "isFree": false},
+    {"id": 4, "name": "Batman", "isFree": false},
+    {"id": 5, "name": "Mắt Biếc", "isFree": true},
+    {"id": 6, "name": "Lật mặt 6", "isFree": false}
+]
