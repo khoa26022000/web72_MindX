@@ -4,8 +4,7 @@ const mogran = require("morgan");
 const router = require("./router");
 const path = require("path");
 const { connectToDB } = require("./database/index");
-const dotenv = require("dotenv");
-dotenv.config();
+
 const PORT = 3000;
 
 app.use(express.json());
