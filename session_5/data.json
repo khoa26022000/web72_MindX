@@ -15,3 +15,8 @@
 {"address": {"building": "103-05", "coord": [-73.8642349, 40.75356], "street": "37 Avenue", "zipcode": "11368"}, "borough": "Queens", "cuisine": "Chinese", "grades": [{"date": {"$date": 1398038400000}, "grade": "A", "score": 10}, {"date": {"$date": 1384214400000}, "grade": "A", "score": 5}, {"date": {"$date": 1370304000000}, "grade": "A", "score": 12}, {"date": {"$date": 1352851200000}, "grade": "A", "score": 10}, {"date": {"$date": 1349913600000}, "grade": "P", "score": 0}, {"date": {"$date": 1337817600000}, "grade": "A", "score": 13}, {"date": {"$date": 1323302400000}, "grade": "A", "score": 12}, {"date": {"$date": 1311120000000}, "grade": "A", "score": 11}], "name": "Ho Mei Restaurant", "restaurant_id": "40362432"}
 {"address": {"building": "60", "coord": [-74.0085357, 40.70620539999999], "street": "Wall Street", "zipcode": "10005"}, "borough": "Manhattan", "cuisine": "Turkish", "grades": [{"date": {"$date": 1411689600000}, "grade": "A", "score": 9}, {"date": {"$date": 1379462400000}, "grade": "A", "score": 13}, {"date": {"$date": 1348185600000}, "grade": "A", "score": 9}, {"date": {"$date": 1336521600000}, "grade": "A", "score": 11}], "name": "The Country Cafe", "restaurant_id": "40362715"}
 {"address": {"building": "195", "coord": [-73.9246028, 40.6522396], "street": "East   56 Street", "zipcode": "11203"}, "borough": "Brooklyn", "cuisine": "Caribbean", "grades": [{"date": {"$date": 1399939200000}, "grade": "A", "score": 2}, {"date": {"$date": 1367971200000}, "grade": "A", "score": 7}, {"date": {"$date": 1348272000000}, "grade": "A", "score": 11}, {"date": {"$date": 1307318400000}, "grade": "A", "score": 12}], "name": "Shashemene Int'L Restaura", "restaurant_id": "40362869"}
+
+
+
+// Thêm, xoá, cập nhật 1 nhà hàng bất kỳ
+//

@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
-const url = "mongodb://localhost:27017/my-blog";
+const url =
+  "mongodb+srv://khoa26022000:gygjiLUwudAqGc2d@web72.bvyy175.mongodb.net/my-block";
 
 async function connectToDB() {
   try {
