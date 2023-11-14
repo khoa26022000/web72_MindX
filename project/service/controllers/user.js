@@ -40,7 +40,7 @@ const login = async (req, res, next) => {
     }
 
     const token = jwt.sign({ userId: checkExistUser._id }, "web72", {
-      expiresIn: "1d",
+      expiresIn: "1h",
     });
 
     const { password, ...returnUser } = checkExistUser;
